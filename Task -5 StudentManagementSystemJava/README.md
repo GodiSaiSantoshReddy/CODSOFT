@@ -18,15 +18,6 @@ This is a simple **console-based Student Management System** built using **Core 
 - Object-Oriented Programming Concepts
 - VS Code / IntelliJ IDEA
 
-## 📂 Folder Structure
-
-StudentManagementSystemJava/
-│
-├── Student.java # Represents each student
-├── StudentManagementSystem.java # Main logic and interface
-├── students.txt # Stores student data persistently
-└── README.md # Project overview and documentation
-
 markdown
 Copy
 Edit
